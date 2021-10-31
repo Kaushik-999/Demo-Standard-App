@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoStandardApp</string>
+    <string name="dummy_text">Here is a Dumpy Text</string>
+    <string name="retry">Retry</string>
+</resources>
